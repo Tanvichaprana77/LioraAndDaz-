@@ -1,0 +1,123 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liora and Dazé Co.</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #fffafc;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        header, section {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #d46cae;
+        }
+        .divider {
+            text-align: center;
+            margin: 40px 0;
+        }
+        .divider::after {
+            content: '⸻';
+            font-size: 24px;
+            color: #ccc;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>🌸 Liora and Dazé Co.</h1>
+    <p><strong>Luxury Makeup Brand • Glam & Glowy Vibes</strong></p>
+    <p>Founded by Tanvi Chaprana</p>
+    <p>📧 Email: tanvichaprana77@gmail.com</p>
+</header>
+
+<div class="divider"></div>
+
+<section>
+    <h2>🛍️ What We Offer</h2>
+    <p>Liora and Dazé Co. is a luxury makeup brand dedicated to delivering glow, glam, and quality straight to your doorstep.</p>
+    <ul>
+        <li>💄 Lip Products</li>
+        <li>✨ Face Essentials</li>
+        <li>🎁 Glam Kits & Combos</li>
+    </ul>
+    <p><em>💬 Note: We are strictly a product-based brand. No skincare services or consultations are provided — just high-quality makeup to enhance your beauty.</em></p>
+</section>
+
+<div class="divider"></div>
+
+<section>
+    <h2>🚚 Shipping Policy</h2>
+    <ul>
+        <li>🇮🇳 Proudly India-based</li>
+        <li>🕒 Orders dispatched within 24–48 hours</li>
+        <li>📦 Delivery in 5–7 business days via standard courier partners</li>
+    </ul>
+</section>
+
+<div class="divider"></div>
+
+<section>
+    <h2>🔁 Return & Refund Policy</h2>
+    <ul>
+        <li>✅ Returns accepted only for defective or damaged items</li>
+        <li>📸 Must share a clear unboxing video showing the defect</li>
+        <li>❌ No returns for personal preferences (e.g., wrong shade, change of mind)</li>
+        <li>⚠️ Only genuine reasons will be entertained</li>
+    </ul>
+</section>
+
+<div class="divider"></div>
+
+<section>
+    <h2>🔒 Privacy Policy</h2>
+    <ul>
+        <li>📩 We collect minimal data (name, address, email) only to fulfill orders</li>
+        <li>🔐 All information is kept private and secure</li>
+        <li>🚫 We never share or sell customer data with third parties</li>
+    </ul>
+</section>
+
+<div class="divider"></div>
+
+<section>
+    <h2>💸 Payment Options</h2>
+    <ul>
+        <li>✅ UPI</li>
+        <li>✅ Cash on Delivery (COD)</li>
+        <li>❌ Cards not accepted at the moment</li>
+    </ul>
+</section>
+
+<div class="divider"></div>
+
+<section>
+    <h2>📱 Stay Connected</h2>
+    <p>Follow us on Instagram for new product launches & glam tutorials!</p>
+    <p><strong>Instagram:</strong> @lioraanddaze <em>(Insert actual handle)</em></p>
+</section>
+
+<footer>
+    <p>🌟 Thank You for Choosing Liora and Dazé Co.</p>
+    <p>Your glow-up journey begins here 💖</p>
+    <p>— With love, Tanvi</p>
+</footer>
+
+</body>
+</html>
